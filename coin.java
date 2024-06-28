@@ -27,9 +27,9 @@ public class coin{
         bui.append((3-k));
         System.out.println(bui.toString());
         if(k>=3-k){
-            System.out.println("you won");
+            System.out.println(a+" won");
         }else{
-            System.out.println("you lose");
+            System.out.println(a+" lose");
         }
     }
 }
